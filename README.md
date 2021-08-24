@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muhamedelezaj
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python languages
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on people who knows python
 - 📫 How to reach me ...
 
 <!---
